@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    background-color: #b87881;
+  }
+  
+  .one,
+  .two,
+  .three {
+    border: dashed 5px white;
+    margin: 50px;
+    text-align: center;
+    background-color: #988aaf;
+  }
+  
+  .one {
+    padding-bottom: 30px;
+  }
